@@ -1,6 +1,6 @@
 # fore-end
 
-此为校园墙前端代码
+校园墙前端代码
 
 ## Project setup
 ```
