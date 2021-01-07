@@ -2,9 +2,9 @@
 out/
 fore-end/node_modules
 back-end/web/WEB-INF
-
 .DS_Store
 /dist
+.idea
 
 
 # local env files
